@@ -9,4 +9,4 @@ The data set used for this challenge is the Google-Landmarks Dataset which conta
 3. Create *train_images*, *valid_images* and *test_images* directories to store train, validation and test images
 4. Run *directory_structure.py* to download images and split them between the directories
 5. Create *saved_models* directory to save Convolutional Neural Network model weights
-6. Run *Landmark_Recognition.ipynb* to train and evaluate base Convolutional Neural Network for landmark recognition
+6. Run *landmark_recognition.ipynb* to train and evaluate base Convolutional Neural Network for landmark recognition
